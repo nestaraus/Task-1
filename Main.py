@@ -1,0 +1,3 @@
+import Console
+
+Console.console()
